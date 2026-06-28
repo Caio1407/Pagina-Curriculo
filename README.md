@@ -7,4 +7,4 @@ Uma projeto criado para servir como um currículo pessoal do autor.
 * Flex box
 
 # Acesse o projeto em: 
-https://vercel.com/caio1407s-projects/pagina-curriculo-8gba/GGtCVZAXzqNW6FZvi6YzRQ8zmsGv
+https://pagina-curriculo-8gba-nhd2eu30r-caio1407s-projects.vercel.app/
